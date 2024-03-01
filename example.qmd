@@ -1,0 +1,17 @@
+---
+title: "Namespace-meta Example"
+format: native
+filters:
+  - at: pre-ast
+    path: "_extensions/namespace-meta/namespace-meta.lua"
+---
+
+## Heading
+
+---
+title: another title
+---
+
+This.
+
+
